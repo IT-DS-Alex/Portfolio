@@ -41,9 +41,9 @@ feed size — размер гранул сырья
 
 feed rate — скорость подачи
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/a06d5f8a-da8d-4f26-97d2-88c892e6387b)
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/c9b98ea8-2f20-4105-8c99-bab4f0743917)
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/fbd12dd0-8a4b-4835-aae3-0ea365789f57)
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/3a7f057b-2d01-4f17-97a2-96f1fafe69bc)
 
 МОДЕЛЬ LinearRegression С РЕЗУЛЬТАТОМ - 10.023124524855415
 
