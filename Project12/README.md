@@ -13,7 +13,12 @@
 
 ## Обучение моделей
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/cfd39cd1-b741-4739-8791-1a21a9fed581)
+| Название  | RMSE |
+|-----------|-------|
+|DecisionTreeRegressor|	28.773143|
+|RandomForestRegressor|	25.310854|
+|LinearRegression|	25.699174|
+|LGBMRegressor	|24.853726|
 
 ### Вывод:
 
