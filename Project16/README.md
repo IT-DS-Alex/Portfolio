@@ -38,7 +38,7 @@
 
 4.Оценка лучшей модели на тестовой выборке.
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/63531807-36ae-4eeb-bd46-06502c0db578)
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/0d65190a-ec69-4438-b9e0-1f71e9f668dd)
 
 ### Вывод:
 
@@ -62,6 +62,7 @@
 
 ![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/44c9eb3d-6fd8-4570-8e13-82aa122333f0)
 
+
 ## Вывод:
 
 Из полученных моделей наилучше всего показала себя модель XGBRegressor с параметрами learning_rate: 0.1, max_depth: 4 и коэффициент детерминации равен 71%.
@@ -70,7 +71,13 @@ XGBRegressor оптимально работает под наши данные.
 
 ### Рассмотрим важность параметров:
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/0be850e4-20a4-4327-b1de-57b7abbf2d6d)
+| model | MAE_model | r2_score |
+|-----------------|-------|-------------|
+|DecisionTreeRegressor|	7.284148|	0.529779|
+|RandomForestRegressor|	6.367882|0.774073|
+|LGBMRegressor|	6.241037|	0.660520|
+|CatBoostRegressor|	6.521541|0.506262|
+|XGBRegressor|	6.208254|0.705918|
 
 ## Вывод:
 
