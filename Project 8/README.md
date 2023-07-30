@@ -8,7 +8,8 @@
 Выбирают месторождения с самым высокими оценками значений. Количество месторождений зависит от бюджета компании и стоимости разработки одной скважины;
 Прибыль равна суммарной прибыли отобранных месторождений.
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/9067ecb9-0db5-48e1-95aa-1862e888daca)
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/37df116c-aeff-4810-bdae-3f9d4959a92b)
+
 
 ### Вывод:
 
@@ -20,9 +21,10 @@
 
 Отметим так же, что на данных по корреляции значений 2 регоина, мы видим сильную зависимость целевого показателя product от f0, такая зависмость можеть дать нам высокие баллы предсказаний для нашей модели.
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/920d87d2-f35a-43dd-a94f-bf92bc889f94)
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/2a71ba98-83a7-47c4-bab8-d9cadcdf4261)
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/24dcc7e4-1063-4bc5-b727-a9dd63dccbf6)
+
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/fa64b29b-3c6d-4f2c-88c9-45dc2cf3f7a8)
 
 ## Общий вывод:
 
