@@ -7,9 +7,11 @@
 
 Постройте модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста.
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/90958172-e702-4b3b-a758-188fb70fca17)
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/1b810685-76ac-46f1-8ce0-3d49ef6530c7)
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/7ab50cfe-9c93-4789-ac7f-0f54d289c680)
+
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/96106135-8fed-435e-8d7c-1af00cef8c3a)
+
 
 ## Вывод:
 
