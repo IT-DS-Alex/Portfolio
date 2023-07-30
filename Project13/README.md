@@ -15,11 +15,21 @@
 
 Данные находятся в файле `toxic_comments.csv`. Столбец *text* в нём содержит текст комментария, а *toxic* — целевой признак.
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/84d97816-9810-4fcf-8ce7-85928464272a)
+| text | toxic |
+|------|-------|	
+|	Explanation\nWhy the edits made under my usern...|	0|
+|	D'aww! He matches this background colour I'm s...|	0|
+|	Hey man, I'm really not trying to edit war. It...|	0|
+|	"\nMore\nI can't make any real suggestions on ...|	0|
+|	You, sir, are my hero. Any chance you remember...|	0|
 
 ## Сравниваем модели:
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/3ecfb3d1-a676-48fa-9afc-ba0fced7ab22)
+| Название |f1 |
+|----------|---|		
+|LogisticRegression|	0.768711|
+|RandomForestClassifier|	0.379209|
+|DecisionTreeClassifier	|0.603352|
 
 ## Выводы
 
