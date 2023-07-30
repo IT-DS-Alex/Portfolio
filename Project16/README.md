@@ -60,7 +60,13 @@
 
 Дерево решений, Случайный лес, LightGBM, XGBoost, CatBoost
 
-![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/44c9eb3d-6fd8-4570-8e13-82aa122333f0)
+| model | MAE_model | r2_score |
+|-----------------|-------|-------------|
+|DecisionTreeRegressor|	7.284148|	0.529779|
+|RandomForestRegressor|	6.367882|0.774073|
+|LGBMRegressor|	6.241037|	0.660520|
+|CatBoostRegressor|	6.521541|0.506262|
+|XGBRegressor|	6.208254|0.705918|
 
 
 ## Вывод:
@@ -71,13 +77,8 @@ XGBRegressor оптимально работает под наши данные.
 
 ### Рассмотрим важность параметров:
 
-| model | MAE_model | r2_score |
-|-----------------|-------|-------------|
-|DecisionTreeRegressor|	7.284148|	0.529779|
-|RandomForestRegressor|	6.367882|0.774073|
-|LGBMRegressor|	6.241037|	0.660520|
-|CatBoostRegressor|	6.521541|0.506262|
-|XGBRegressor|	6.208254|0.705918|
+![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/73a4dee0-73c6-445e-a5aa-558281cbfd27)
+
 
 ## Вывод:
 
