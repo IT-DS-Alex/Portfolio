@@ -9,7 +9,6 @@
 
 ![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/1b810685-76ac-46f1-8ce0-3d49ef6530c7)
 
-
 ![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/96106135-8fed-435e-8d7c-1af00cef8c3a)
 
 
