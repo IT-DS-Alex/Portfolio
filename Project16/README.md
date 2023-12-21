@@ -80,7 +80,7 @@ XGBRegressor оптимально работает под наши данные.
 ![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/73a4dee0-73c6-445e-a5aa-558281cbfd27)
 
 
-## Вывод:
+# Вывод:
 
 1.Рассмотрел следующие модели: дерево решений, случайный лес, lightGBM, XGBoost, CatBoost.
 
