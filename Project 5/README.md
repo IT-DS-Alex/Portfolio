@@ -31,6 +31,7 @@
 4. Заменили тип данных.
 
 ### Исследовательский анализ данных
+
 ![image](https://github.com/IT-DS-Alex/Portfolio/assets/140064630/19b6939e-6ea9-4222-b09e-735cafeff6e8)
 
 #### Вывод: 
