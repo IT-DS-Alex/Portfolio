@@ -1,4 +1,5 @@
 # Исследование надежности заемщиков
+
 ## Общая информация о данных
 | children | days_employed | dob_years | education | education_id | family_status | family_status_id | gender |income_type|debt|	total_income|	purpose|
 |-----------------|-------|-------------|-------------|-----------|---------------|------------------|-------------------|---|---|---|---|
